@@ -1,0 +1,5 @@
+[tomcat-nodes]
+web1 ansible_host=192.168.10.15
+[tomcat-nodes:vars]
+ansible_python_interpreter=/usr/bin/python3
+ 
